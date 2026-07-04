@@ -1,5 +1,7 @@
 # Variables 
 
+Anki : 02-variables
+
 **Q**: How can we assign multiple variables in a single line in python ? 
 
 **Solution**:
@@ -16,6 +18,12 @@ msg1,msg2 = "Hello", "World"
 
 We can print the type of a variable or value in python using the `type()` function
 
+```python
+print(type(10))
+```
+
+This will output: `<class 'int'>` 
+
 **Q**: What is Type Casting ? 
 
 **Solution**:
@@ -27,6 +35,8 @@ variable = 10.9
 
 print(int(variable))
 ```
+
+This code will output : 10
 
 **Q**: Can we convert a string to an integer ? 
 
