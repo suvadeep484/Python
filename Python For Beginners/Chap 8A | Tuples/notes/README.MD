@@ -29,7 +29,7 @@
 
   ```python
   my_tuple = (4,5,6)
-  my_tuple[0] # Raises an error 
+  my_tuple[0] = 7 # Raises an error 
   ```
 
 - append ,pop , sum(), max(), min()
