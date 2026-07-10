@@ -1,5 +1,7 @@
 # Lists 
 
+Anki: 09-lists
+
 **Q**: Are lists mutable ? 
 
 **Solution**:
@@ -21,7 +23,7 @@ if 4 not in my_list:
   print("4 not present")
 ```
 
-**Q**: How can we loop over a list ? 
+**Q**: What are the 2 ways of  looping  over a list ? 
 
 **Solution**:
 
@@ -29,7 +31,7 @@ Method 1 ➡️
 
 ```python
 my_list =[1,2,3,4,5]
-for i in range(my_list):
+for i in range(len(my_list)):
   print(my_list[i])
 ```
 
@@ -66,4 +68,5 @@ for element in my_list:
 **Solution**:
 
 - list slicing is similar to string slicing 
+- slicing a list creates a new list
 

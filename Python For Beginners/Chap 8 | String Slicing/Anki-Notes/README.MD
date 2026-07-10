@@ -1,5 +1,7 @@
 # String Slicing 
 
+Anki : 08-string-slicing
+
 **Q**: What is Python string slicing syntax ? 
 
 **Solution**:
@@ -28,7 +30,7 @@ From index `4` to the end.
 
 **Solution**:
 
-Copy / return the whole string.
+Copy  the whole string.
 
 **Q**: What does `my_string[::-1]` do?
 

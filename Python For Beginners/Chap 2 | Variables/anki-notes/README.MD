@@ -2,53 +2,19 @@
 
 Anki : 02-variables
 
-**Q**: How can we assign multiple variables in a single line in python ? 
+**Q**: How can we assign multiple variables in a single line in python ? (like say we want to assign msg1 to "Hello" and msg2 to "World")
 
-**Solution**:
-
-To assign multiple varibles in a single line we use the following syntax 
+**Solution**: 
 
 ```python
 msg1,msg2 = "Hello", "World"  
 ```
 
-**Q**: How can we print the type of a variable or value in Python ? 
+**Q**: How can we declare an Empty variable without any value ? (like say we want to assign the variavble `my_name` without any value)
 
 **Solution**:
 
-We can print the type of a variable or value in python using the `type()` function
-
-```python
-print(type(10))
-```
-
-This will output: `<class 'int'>` 
-
-**Q**: What is Type Casting ? 
-
-**Solution**:
-
-Type Casting ➡️ converting a variable from one type to another type is called type casting 
-
-```python
-variable = 10.9 
-
-print(int(variable))
-```
-
-This code will output : 10
-
-**Q**: Can we convert a string to an integer ? 
-
-**Solution**:
-
-We cant convert a string to an integer unless the string is a number 
-
-**Q**: How can we declare an Empty variable without any value ? 
-
-**Solution**:
-
-if we want to declare a variable without a value we can use the `None` Keyword 
+ use the `None` Keyword 
 
 ```python
 my_name = None 

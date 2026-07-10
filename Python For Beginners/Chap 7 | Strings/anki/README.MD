@@ -2,7 +2,7 @@
 
 Anki : 07-strings 
 
-**Q**: What does the `len()` function do in Python ? 
+**Q**: What does the `len()` function do in Python when called on a string ? 
 
 **Solution**:
 

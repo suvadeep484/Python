@@ -2,11 +2,11 @@
 
 Anki : 05-conditional-statements
 
-**Q**: Are variables defined inside an if statement are accessible outside of the if statement ? 
+**Q**: Are variables defined inside an if statement block  accessible outside of the if statement block ? 
 
 **Solution**: 
 
-varibles defined inside an if statement are accessible outside of the if statement 
+variables defined inside an if statement block are accessible outside of the if statement block
 
 ```python
 if True:
@@ -18,15 +18,15 @@ print(message) # This will print Hello
 
 **Solution**
 
-A value is falsy if it is 
+ mnemonic ➡️ **F N Z E C**
 
-- False
-- None
-- 0
-- 0.0
-- "" (Empty strings)
-- [] (Empty list)
-- Empty Collection (empty tuple , empty set , empty dictionary)
+| Letter | Meaning          | Examples                  |
+| ------ | ---------------- | ------------------------- |
+| **F**  | False            | `False`                   |
+| **N**  | None             | `None`                    |
+| **Z**  | Zero             | `0`, `0.0`                |
+| **E**  | Empty string     | `""`                      |
+| **C**  | Empty collection | `[]`, `()`, `{}`, `set()` |
 
 
 

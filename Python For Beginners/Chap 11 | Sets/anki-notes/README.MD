@@ -1,10 +1,17 @@
 # Sets 
 
+Anki:11-sets
+
 **Q**: What is a Set ? 
 
 **Solution**:
 
 - a set can only contain unique elements
+
+**Q**: Are the elements in a set ordered ? 
+
+**Solution**:
+
 - a set is unordered meaning the elements are not stored in a specific order
 
 **Q**: How to add elements to a set ? 

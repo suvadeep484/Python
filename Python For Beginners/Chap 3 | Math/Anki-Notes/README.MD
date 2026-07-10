@@ -1,6 +1,17 @@
 # Math 
 
-##  Arithmatic Operators
+**Q**: Write the results
+
+| Arithmatic Operator | Value |
+| ------------------- | ----- |
+| `print(7//2)`       | 3     |
+| `print(7%2)`        | 1     |
+| `print(7**2)`       | 49    |
+| `print(7/2)`        | 3.5   |
+
+**Solution**:
+
+Arithmatic Operators ➡️
 
 | Arithmatic Operator   | What it does ?                                               |
 | --------------------- | ------------------------------------------------------------ |
@@ -9,7 +20,7 @@
 | `**` (Exponentiation) | Raises the first operand to the power of the second operand <br />print(7**2) => 49 |
 | `/` (Division)        | Divides the first operand by the second .The result is always a float <br />print(7/2) => 3.5 |
 
-## Boolean Operators 
+**Q**: Explain the boolean operators `or` ,`and` ,`not` 
 
 | Boolean Operators | What they do ?                                               |
 | ----------------- | ------------------------------------------------------------ |

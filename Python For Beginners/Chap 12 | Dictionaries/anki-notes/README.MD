@@ -1,5 +1,7 @@
 # Dictionaries 
 
+Anki : 12-dictionaries
+
  **Q**: What is a dictionary ? 
 
 **Solution**:
@@ -40,7 +42,7 @@ To check if a dictionary contains a key we can use the *in* operator
 ```python
 my_dict ={"a":1,"b":2,"c":3}
 print("a" in my_dict) # Output : True
-print("b" in my_dict) # Output : False
+print("d" in my_dict) # Output : False
 ```
 
 **Q**:How to loop over a dictionary ?
