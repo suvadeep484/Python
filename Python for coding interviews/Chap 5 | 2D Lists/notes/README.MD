@@ -42,3 +42,5 @@ grid = [[0] * 3 for _ in range(2)]
 ```
 
 - We create a list of zeroes with `[0] * 3` and use it for the outer list with list comprehension.Since the variable in the for loop is not used , we use an underscore `_` to indicate that it is a throwaway variable .This is a common convention in Python
+- To initialze a 2-D grid of size `n x m` with a given value, the time complexity is `O(n∗m)`
+
